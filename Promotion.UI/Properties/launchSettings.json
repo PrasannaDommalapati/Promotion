@@ -1,0 +1,36 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:26933",
+      "sslPort": 44383
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "PromotionsAPI:Host": "https://reqres.in",
+        "PromotionsAPI:Credential:Id": "key",
+        "PromotionsAPI:Credential:Key": "value",
+        "ManagementAPI:Host": "https://proxy.z-ppp-dv-apim01.xpzcloud.com/outputs/dv",
+        "ManagementAPI:Credential:Id": "Ocp-Apim-Subscription-Key",
+        "ManagementAPI:Credential:Key": "6e13eebbefc04526a82528824e350e43"
+      }
+    },
+    "promotion": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "PromotionsAPI:Host": "https://reqres.in/api/",
+        "PromotionsAPI:Credential:Key": "key",
+        "PromotionsAPI:Credential:Id": "id"
+      }
+    }
+  }
+}

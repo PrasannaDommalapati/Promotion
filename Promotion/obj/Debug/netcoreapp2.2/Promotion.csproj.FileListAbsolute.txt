@@ -1,0 +1,9 @@
+C:\Development\Repos\Promotion\Promotion\bin\Debug\netcoreapp2.2\Promotion.deps.json
+C:\Development\Repos\Promotion\Promotion\bin\Debug\netcoreapp2.2\Promotion.dll
+C:\Development\Repos\Promotion\Promotion\bin\Debug\netcoreapp2.2\Promotion.pdb
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.csprojAssemblyReference.cache
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.AssemblyInfoInputs.cache
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.AssemblyInfo.cs
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.dll
+C:\Development\Repos\Promotion\Promotion\obj\Debug\netcoreapp2.2\Promotion.pdb
