@@ -11,10 +11,14 @@ namespace Promotion.Library
         public static string Serialize<T>(T data) where T : class
         {
             if (data == null) throw new ArgumentNullException(nameof(data));
+
+            var contractResolver = new CamelCasePropertyNamesContractResolver();
+            contractResolver.NamingStrategy.OverrideSpecifiedNames = false;
+
             return JsonConvert.SerializeObject(data,
                 new JsonSerializerSettings
                 {
-                    ContractResolver = new CamelCasePropertyNamesContractResolver()
+                    ContractResolver = contractResolver
                 });
         }
 

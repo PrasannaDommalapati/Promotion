@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,7 +31,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
               "C:\\Development\\Repos\\Promotion\\Promotion\\Promotion.csproj": {
                 "projectPath": "C:\\Development\\Repos\\Promotion\\Promotion\\Promotion.csproj"
@@ -46,25 +46,41 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.0.2, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[1.3.2, )"
+              "version": "[1.4.0, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[1.3.2, )"
+              "version": "[1.4.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[15.9.0, )"
+              "version": "[16.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+              "target": "Package",
+              "version": "[11.0.50727.1, )"
+            },
+            "MockQueryable.NSubstitute": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
             }
           },
           "imports": [
@@ -141,11 +157,11 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
@@ -163,7 +179,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "[12.0.2, )"
             },
             "SSH.NET": {
               "target": "Package",

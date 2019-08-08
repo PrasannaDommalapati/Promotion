@@ -3,7 +3,7 @@ using Promotion.Library;
 
 namespace Promotion.Proxy
 {
-    public class PromotionsEndpointFactory: EndpointFactory, IPromotionsEndpointFactory
+    public class PromotionsEndpointFactory : EndpointFactory, IPromotionsEndpointFactory
     {
         public PromotionsEndpointFactory(IOptions<PromotionsConfiguration> configuration) : base(configuration) { }
     }

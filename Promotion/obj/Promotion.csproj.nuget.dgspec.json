@@ -70,11 +70,11 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
@@ -92,7 +92,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "[12.0.2, )"
             },
             "SSH.NET": {
               "target": "Package",

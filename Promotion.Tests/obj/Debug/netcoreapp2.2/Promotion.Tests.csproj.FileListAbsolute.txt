@@ -1,0 +1,17 @@
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.Tests.deps.json
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.Tests.runtimeconfig.json
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.Tests.runtimeconfig.dev.json
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.Tests.dll
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.Tests.pdb
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.dll
+C:\Development\Repos\Promotion\Promotion.Tests\bin\Debug\netcoreapp2.2\Promotion.pdb
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.csprojAssemblyReference.cache
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.AssemblyInfoInputs.cache
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.AssemblyInfo.cs
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.csproj.CopyComplete
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.dll
+C:\Development\Repos\Promotion\Promotion.Tests\obj\Debug\netcoreapp2.2\Promotion.Tests.pdb
