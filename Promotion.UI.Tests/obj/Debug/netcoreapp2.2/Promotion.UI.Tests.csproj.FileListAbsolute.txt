@@ -1,3 +1,5 @@
+C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Views.dll
+C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Views.pdb
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -6,16 +8,14 @@ C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promot
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Tests.runtimeconfig.dev.json
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Tests.dll
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Tests.pdb
-C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.csproj.CoreCompileInputs.cache
-C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.AssemblyInfoInputs.cache
-C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.AssemblyInfo.cs
-C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.dll
-C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.pdb
-C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Views.dll
-C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.Views.pdb
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.dll
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.dll
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.UI.pdb
 C:\Development\Repos\Promotion\Promotion.UI.Tests\bin\Debug\netcoreapp2.2\Promotion.pdb
 C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.csprojAssemblyReference.cache
+C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.AssemblyInfoInputs.cache
+C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.AssemblyInfo.cs
 C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.csproj.CopyComplete
+C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.dll
+C:\Development\Repos\Promotion\Promotion.UI.Tests\obj\Debug\netcoreapp2.2\Promotion.UI.Tests.pdb

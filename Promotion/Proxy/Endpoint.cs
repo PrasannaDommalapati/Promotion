@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
+using Promotion.Extensions;
 using Promotion.Library;
 using System;
 using System.Net;
