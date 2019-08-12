@@ -18,7 +18,7 @@
         "PromotionsAPI:Credential:Key": "value",
         "ManagementAPI:Host": "https://proxy.z-ppp-dv-apim01.xpzcloud.com/outputs/dv",
         "ManagementAPI:Credential:Id": "Ocp-Apim-Subscription-Key",
-        "ManagementAPI:Credential:Key": "6e13eebbefc04526a82528824e350e43"
+        "ManagementAPI:Credential:Key": ""
       }
     },
     "promotion": {
