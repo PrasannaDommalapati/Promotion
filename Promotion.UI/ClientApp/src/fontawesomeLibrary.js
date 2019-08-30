@@ -15,10 +15,12 @@ import {
     faScroll,
     faTasks,
     faTimesCircle,
-    faWallet
+    faWallet,
+    faCalendarPlus
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
+    faCalendarPlus,
     faCheckCircle,
     faCircleNotch,
     faCloudDownloadAlt,
@@ -42,6 +44,7 @@ const Icons = {
     Actions: 'tasks',
     ActionSuccess: 'check-circle',
     Busy: 'circle-notch',
+    Calendar:'calendar-plus',
     Download: 'cloud-download-alt',
     Error: 'exclamation-triangle',
     Envelope: 'envelope',
